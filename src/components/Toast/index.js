@@ -1,2 +1,2 @@
-export * from "./Toast";
-export { default } from "./Toast";
+export * from './ToastProvider';
+export * from './useToast';
